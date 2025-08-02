@@ -29,7 +29,7 @@ Este é o meu espaço pessoal no GitHub, onde compartilho experimentos, estudos 
 
 Se você quer ver projetos mais organizados, focados em **desenvolvimento profissional com Java**, acesse meu outro perfil:
 
-➡️ [Meu outro GitHub](https://github.com/YuriVasconcelosJ**)  
+➡️ [Meu outro GitHub](https://github.com/YuriVasconcelosJ)  
 
 ---
 
